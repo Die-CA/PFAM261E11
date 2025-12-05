@@ -1,4 +1,10 @@
+UNIVERSIDAD TECNOLOGICA DE MEXICO
+Proyecto Final de Aplicaciones Moviles 26-1
+Equipo 11: 
+Diego Chavez Alvarez
+Eduardo Antonio Cardoso Esteva
 
+Descripcion:
 Aplicación móvil desarrollada en Kotlin + Jetpack Compose, diseñada para gestionar tareas diarias, agregar recordatorios locales, capturar imágenes desde la cámara con CameraX, y programar notificaciones personalizadas.
 
 Características:
